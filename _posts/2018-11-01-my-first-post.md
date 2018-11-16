@@ -22,3 +22,5 @@ _... and to demonstrate some more markdown syntax ..._
 Here's a picture of my dogs:
 
 ![black and tan shiba with a necktie collar and a red shiba with a flower petal collar](/images/monty-and-petunia.jpg)
+
+I added a line here
